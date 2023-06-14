@@ -1,0 +1,9 @@
+{
+    "expo": {
+        "name": "test-useFonts",
+        "slug": "tuf",
+        "web": {
+            "bundler": "metro"
+        }
+    }
+}
